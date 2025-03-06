@@ -1,0 +1,26 @@
+@import "tailwindcss";
+body {
+    font-family: 'Fira Code', monospace;
+  }
+@layer utilities {
+  .text-myblue {
+    color: #4000F5; 
+  }
+  .bg-myblue {
+    background-color: #4000F5;
+  }
+  .text-mypurple {
+    color: #42005A; 
+  }
+  .bg-mypurple {
+    background-color: #42005A;
+  }
+  .text-myyellow {
+    color: #CEF565; 
+  }
+  .bg-myyellow {
+    background-color: #CEF565;
+  }
+}
+   
+  
